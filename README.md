@@ -8,7 +8,7 @@
 
 Тестирование проводилось с помощью эмулятора Android Studio. По результатам тестирования была создана документация:
 
-- [Тестовый прогон тест-кейсов для тестирования мобильного приложения shopping list](ttps://drive.google.com/file/d/1hf7avFqYamHX99V3rek_dkzoWeuJhED5/view?usp=sharing)
+- [Тестовый прогон тест-кейсов для тестирования мобильного приложения shopping list](https://drive.google.com/file/d/1hf7avFqYamHX99V3rek_dkzoWeuJhED5/view?usp=share_link)
 
 - [Отчеты о дефекте мобильного приложения shopping list](https://onedrive.live.com/edit?id=EE324042AAB72D22!1455&resid=EE324042AAB72D22!1455&ithint=file%2Cxlsx&authkey=!ACp5SwGmTmeYbXM&wdo=2&cid=ee324042aab72d22)
 
